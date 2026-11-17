@@ -28,4 +28,3 @@ J’ai conçu un flux n8n qui récupère les interventions prévues, vérifie le
 
 ![Workflow n8n d’automatisation des accès, du filtrage des intermittents à la vérification et à la création des comptes.](docs/workflow-automatisation-acces.png)
 
-Deux pistes de poursuite sont l’historisation des indicateurs et l’évaluation d’un modèle local plus performant.
