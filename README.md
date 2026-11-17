@@ -4,7 +4,7 @@
 
 [Voir mon portfolio](https://kajan94.github.io/Portefolio/#experience)
 
-## Assistant de recherche documentaire
+## Assistant IA de recherche documentaire
 
 J’ai développé deux workflows n8n. Le premier prépare et vectorise les procédures Notion pour les indexer dans Qdrant. Le second recherche les passages pertinents et les transmet au modèle exécuté localement avec Ollama. Une interface web permet aux techniciens de poser une question et de démarrer une nouvelle discussion.
 
